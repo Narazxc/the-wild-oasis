@@ -75,7 +75,7 @@ function SalesChart({ bookings, numDays }) {
     };
   });
 
-  console.log(data);
+  // console.log(data);
 
   const colors = isDarkMode
     ? {
